@@ -3,5 +3,5 @@
 """Update the project description on Modrinth based on the README file."""
 import os
 
-print(os.environ["MODRINTH_SLUG"])
-print(bool(os.environ["MODRINTH_PAT"]))
+print(os.environ["modrinth_slug"])
+print(bool(os.environ["modrinth_pat"]))
