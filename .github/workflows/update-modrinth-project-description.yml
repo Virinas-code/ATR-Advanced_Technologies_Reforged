@@ -1,0 +1,23 @@
+name: Update Modrinth project description
+
+on:
+  push:
+    branches: [ "master" ]
+    paths:
+      - "README.md"
+      
+  workflow_dispatch:
+
+jobs:
+  update-description:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5.1.1
+        
+      - name: Run a one-line script
+        run: python scripts/update_description.py
