@@ -1,5 +1,7 @@
 # ATR - Advanced Technologies: Reforged
 
+![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/advanced-technologies-reforged?style=for-the-badge&logo=modrinth&color=%231bd96a) ![Modrinth Version](https://img.shields.io/modrinth/v/advanced-technologies-reforged?style=for-the-badge&logo=modrinth&color=%231bd96a) ![Modrinth Downloads](https://img.shields.io/modrinth/dt/advanced-technologies-reforged?style=for-the-badge&logo=modrinth&color=%231bd96a) ![Modrinth Followers](https://img.shields.io/modrinth/followers/advanced-technologies-reforged?style=for-the-badge&logo=modrinth&color=%231bd96a)
+
 ## About
 
 This modpack is focused around technology, especially the Create, Valkyrien Skies and ComputerCraft mods. The final goal is to make technology required in order to progress (however, since it is still in Alpha, this goal has not been reached yet).
