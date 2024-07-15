@@ -35,7 +35,6 @@ SESSION: requests.Session = requests.Session()
 """Session for requests"""
 
 SESSION.headers.update(HEADERS)
-print(SESSION.headers)
 
 with open(README_PATH, encoding="utf-8") as file:
     data: Response = requests.patch(
