@@ -8,6 +8,9 @@ on:
       
   workflow_dispatch:
 
+env:
+  modrinth_slug: ${{ vars.MODRINTH_SLUG }}
+
 jobs:
   update-description:
     runs-on: ubuntu-latest
@@ -21,3 +24,5 @@ jobs:
         
       - name: Run a one-line script
         run: python scripts/update_description.py
+        env:
+          modrinth_pat: ${{ secrets.MODRINTH_PAT }}
