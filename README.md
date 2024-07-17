@@ -32,3 +32,5 @@ All credit goes to mods authors. All the mods in this modpack come from Modrinth
 
 - **[Framework](https://mrcrayfish.com/mods/framework)** - MrCrayfish's Gun Mod dependency
 - **[MrCrayfish's Gun Mod](https://mrcrayfish.com/mods/cgm)** - Guns
+
+###### This README file is automatically synchronized from the GitHub repository.
