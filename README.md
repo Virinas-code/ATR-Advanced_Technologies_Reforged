@@ -33,4 +33,10 @@ All credit goes to mods authors. All the mods in this modpack come from Modrinth
 - **[Framework](https://mrcrayfish.com/mods/framework)** - MrCrayfish's Gun Mod dependency
 - **[MrCrayfish's Gun Mod](https://mrcrayfish.com/mods/cgm)** - Guns
 
+### Create: Interactive
+
+This modpack was supposed to include the **Create: Interactive** mod. However, the latest version of the mod is broken, and requires manual patching ; and due to licensing restrictions, I am not allowed to publish a modified version of it.
+
+**Create: Interactive** will be added when this is fixed.
+
 ###### This README file is automatically synchronized from the GitHub repository.
