@@ -4,7 +4,22 @@
 
 ## About
 
-This modpack is focused around technology, especially the Create, Valkyrien Skies and ComputerCraft mods. The final goal is to make technology required in order to progress (however, since it is still in Alpha, this goal has not been reached yet).
+This modpack is focused around technology, especially the Create, Valkyrien Skies and ComputerCraft mods.
+The final goal is to make technology required in order to progress (however, since it is still in Alpha, this goal has not been reached yet).
+We recommend playing this modpack on a hardcore multiplayer server with PvP enabled.
+All the mods were chosen to offer both ways to defend yourself (**SecurityCraft**) or attack others (**Create: Big Cannons**).
+
+### Features
+
+One of the most important mods in ATR is **Create**. It adds working mechanical contraptions to the game, which allows you to create advanced automated factories.
+
+This modpack is also focused on **Valkyrien Skies**, a mod which adds interactable ships / vehicles with physics. It is powered by multiple different addons.
+
+We also added **ComputerCraft**, which adds programmable computers. It allows you to manipulate complex logic easily and create interfaces with monitors.
+
+Some food related mods are featured, including **Farmer's Delight**. Food is important, especially in hardcore, and having more types is really cool in my opinion. It can of course be automated too 😉.
+
+Finally, we included world generation and optimization mods to make it more interesting and fun to play.
 
 ### Why Reforged?
 
@@ -37,6 +52,6 @@ All credit goes to mods authors. All the mods in this modpack come from Modrinth
 
 This modpack was supposed to include the **Create: Interactive** mod. However, the latest version of the mod is broken, and requires manual patching ; and due to licensing restrictions, I am not allowed to publish a modified version of it.
 
-**Create: Interactive** will be added when this is fixed.
+**Create: Interactive** is currently not included but it will be added when this is fixed.
 
 ###### This README file is automatically synchronized from the GitHub repository.
