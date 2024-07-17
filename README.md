@@ -1,6 +1,15 @@
 # ATR - Advanced Technologies: Reforged
 
-![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/advanced-technologies-reforged?style=for-the-badge&logo=modrinth&color=%231bd96a) ![Modrinth Version](https://img.shields.io/modrinth/v/advanced-technologies-reforged?style=for-the-badge&logo=modrinth&color=%231bd96a) ![Modrinth Downloads](https://img.shields.io/modrinth/dt/advanced-technologies-reforged?style=for-the-badge&logo=modrinth&color=%231bd96a) ![Modrinth Followers](https://img.shields.io/modrinth/followers/advanced-technologies-reforged?style=for-the-badge&logo=modrinth&color=%231bd96a)
+![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/advanced-technologies-reforged?style=for-the-badge&logo=modrinth&color=%231bd96a)
+![Modrinth Version](https://img.shields.io/modrinth/v/advanced-technologies-reforged?style=for-the-badge&logo=modrinth&color=%231bd96a)
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/advanced-technologies-reforged?style=for-the-badge&logo=modrinth&color=%231bd96a)
+![Modrinth Followers](https://img.shields.io/modrinth/followers/advanced-technologies-reforged?style=for-the-badge&logo=modrinth&color=%231bd96a)  
+![Issues](https://img.shields.io/github/issues-raw/Virinas-code/ATR-Advanced_Technologies_Reforged?color=333&style=for-the-badge&logo=github)
+![Pull Requests](https://img.shields.io/github/issues-pr-raw/Virinas-code/ATR-Advanced_Technologies_Reforged?color=333&style=for-the-badge&logo=github)
+![Contributors](https://img.shields.io/github/contributors/Virinas-code/ATR-Advanced_Technologies_Reforged?color=333&style=for-the-badge&logo=github)
+![Lines](https://img.shields.io/endpoint?url=https://ghloc.vercel.app/api/Virinas-code/ATR-Advanced_Technologies_Reforged/badge?style=flat&logoColor=white&color=333&style=for-the-badge&logo=github)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/Virinas-code/ATR-Advanced_Technologies_Reforged?color=333&style=for-the-badge&logo=github)
+![Last Commit](https://img.shields.io/github/last-commit/Virinas-code/ATR-Advanced_Technologies_Reforged?color=333&style=for-the-badge&logo=github)
 
 ## About
 
