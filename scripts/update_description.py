@@ -42,7 +42,7 @@ with open(README_PATH, encoding="utf-8") as file:
     data: Response = requests.patch(
         ENDPOINT,
         json={
-            "body": file.read().replace("(latest commit)", f"({GITHUB_SHA})"),
+            "body": file.read().replace("(latest commit)", f"(commit {GITHUB_SHA})"),
         },
         headers={
             "Authorization": API_KEY,
