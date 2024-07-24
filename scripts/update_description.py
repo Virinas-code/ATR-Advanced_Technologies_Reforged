@@ -12,6 +12,8 @@ API_KEY: str = os.environ["modrinth_pat"]
 """TOP SECRET - Modrinth Personnal Access Token"""
 PROJECT_SLUG: str = os.environ["modrinth_slug"]
 """Modrinth project ID (slug)"""
+GITHUB_SHA: str = os.environ["github_sha"]
+"""GitHub commit SHA"""
 
 ENDPOINT: str = f"https://api.modrinth.com/v2/project/{PROJECT_SLUG}"
 """API endpoint"""
@@ -40,7 +42,7 @@ with open(README_PATH, encoding="utf-8") as file:
     data: Response = requests.patch(
         ENDPOINT,
         json={
-            "body": file.read(),
+            "body": file.read().replace("(latest commit)", f"({GITHUB_SHA})"),
         },
         headers={
             "Authorization": API_KEY,
