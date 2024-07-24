@@ -63,4 +63,4 @@ This modpack was supposed to include the **Create: Interactive** mod. However, t
 
 **Create: Interactive** is currently not included but it will be added when this is fixed.
 
-###### This README file is automatically synchronized from the GitHub repository.
+###### This README file is automatically synchronized from the GitHub repository (latest commit)
