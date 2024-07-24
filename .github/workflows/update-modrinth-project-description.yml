@@ -5,6 +5,8 @@ on:
     branches: [ "master" ]
     paths:
       - "README.md"
+      - ".github/worflows/update-modrinth-project-description.yml"
+      - "scripts/update_description.py"
       
   workflow_dispatch:
 
@@ -33,4 +35,4 @@ jobs:
         run: python scripts/update_description.py
         env:
           modrinth_pat: ${{ secrets.MODRINTH_PAT }}
-          github_sga: ${{ github.sha }}
+          github_sha: ${{ github.sha }}
